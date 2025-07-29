@@ -1,0 +1,44 @@
+{
+    "products":[
+        {
+            "id":1,
+            "productName":"ultrabook x15",
+            "category":"laptop",
+            "brand":"techpro",
+            "price":1200,
+            "image":"immmmm"
+        },
+        {
+            "id":2,
+            "productName":"ultrabook x15",
+            "category":"laptop",
+            "brand":"techpro",
+            "price":1300,
+            "image":"immmmm"
+        },
+        {
+            "id":3,
+            "productName":"ultrabook x15",
+            "category":"laptop",
+            "brand":"techpro",
+            "price":1400,
+            "image":"immmmm"
+        },
+        {
+            "id":4,
+            "productName":"ultrabook x15",
+            "category":"laptop",
+            "brand":"techpro",
+            "price":1900,
+            "image":"immmmm"
+        },
+        {
+            "id":5,
+            "productName":"ultrabook x15",
+            "category":"laptop",
+            "brand":"techpro",
+            "price":1700,
+            "image":"immmmm"
+        }
+    ]
+}

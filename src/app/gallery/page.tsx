@@ -1,7 +1,6 @@
 import Image from "next/image";
 
-
-const GallerPage = () => {
+const GalleryPage = () => {
     return (
         <div className="text-center">
             <h1>Next js image optimaization</h1>
@@ -11,4 +10,4 @@ const GallerPage = () => {
     );
 };
 
-export default GallerPage;
+export default GalleryPage;
